@@ -27,7 +27,7 @@ Below are key SQL queries used in this analysis:
 <div align="center">
   <img src="images/summary_statistics.JPG" height="1100" width="400"/>
   <img src="images/experience by graduate majors.JPG" height="1100" width="400"/>
-  <img src="images/custom expertiese classification.JPG" height="900" width="300"/>
+  <img src="images/custom expertiese classification.JPG" height="900" width="400"/>
 </div>
 
 # Insights Deep Dive
