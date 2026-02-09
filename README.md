@@ -1,8 +1,7 @@
 # NASA-Astronaut-Yearbook-Analysis
 
-/* Source:
+This was a made up project using a Kaggle dataset
   https://www.kaggle.com/nasa/astronaut-yearbook
-*/
 Technologies Used
 SQL
 
