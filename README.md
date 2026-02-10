@@ -1,4 +1,4 @@
-# NASA-Astronaut-Yearbook-Analysis
+# NASA-Astronaut-Analysis-Project
 
 # Background and Overview
 This is a personal learning project designed to practice SQL skills using publicly available NASA astronaut data. Using a Kaggle dataset, I explored astronaut profiles to practice data analysis techniques including summary statistics, conditional logic, grouping, and filtering.The analysis focuses on:
