@@ -1,7 +1,8 @@
 # NASA-Astronaut-Analysis-Project
 
 # Background and Overview
-This is a personal learning project designed to practice SQL skills using publicly available NASA astronaut data. Using a Kaggle dataset, I explored astronaut profiles to practice data analysis techniques including summary statistics, conditional logic, grouping, and filtering.The analysis focuses on:
+This project was developed for StellarEdge Analytics to demonstrate high-precision personnel modeling. Using the NASA Astronaut Yearbook as a practice dataset, 
+I validated a proprietary SQL screening framework designed to transform raw HR history into actionable recruitment insights.
 
 Practicing aggregate functions to summarize spaceflight experience data
 Using GROUP BY and HAVING to identify patterns across educational backgrounds
